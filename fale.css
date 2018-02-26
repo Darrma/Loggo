@@ -1,0 +1,162 @@
+body header {
+	
+	background-color:#008080;
+	margin:auto;
+	padding: 20px;
+
+}
+li  {
+	text-decoration: none;
+	list-style: none;
+	margin: 20px;
+   border-radius:20px;
+    text-align: center;
+  background-color: #00CED1;
+}
+
+li a {
+	color: #fff;
+  padding: 5px 5px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  
+}
+
+.block1  { 
+	
+    width: 1000px;
+     height: 190px;
+    background:#E0FFFF;
+    padding: 50px;
+    padding-right: 20px; 
+    float: left;
+   }
+
+   .block2 { 
+   
+    width:425px;
+    background:#E0FFFF;
+    padding:50px;
+    padding-right: 20px; 
+    float: right;
+    position:relative; 
+   
+   }
+
+   .block3 { 
+  
+    width:425px;
+     height: 470px;
+    background:#E0FFFF;
+    margin: 0px;
+    padding: 50px;
+    padding-right: 20px; 
+    float: right;
+   }
+
+.block4  { 
+
+    width: 1000px;
+     height: 300px;
+    background:#E0FFFF;
+    padding: 50px;
+    padding-right: 20px; 
+    float: left;
+   }
+
+   .block5  { 
+   
+    width: 1000px;
+     height: 200px;
+    background:#E0FFFF;
+    padding: 50px;
+    padding-right: 0px; 
+    float: left;
+   }
+
+   h1 {
+   	display: flex;
+   	justify-content: center;
+   	color: #CD5C5C;
+   }
+
+p {
+	display: flex;
+   	justify-content: center;
+	color: ;
+	font: 50pt sans-serif;
+	margin: 50px ;
+	padding:50px ;
+}
+
+ul {
+	display: flex;
+    margin-left: 1000px;
+	margin-top: 20px;
+
+}
+
+ .logo1 {
+ position: absolute;
+ margin: 0px 0 0 50px;
+ padding: auto;
+ z-index: 50;
+}
+
+.logo1 img {
+	border: none;		
+	margin: 0px;		
+}
+ 
+.logo1 a img {
+	border: none;		
+	margin: 0px;			
+}
+
+
+  
+
+
+
+
+
+
+
+
+  <div>
+				<div class="block1">
+					<p>Jeep - Chrysler Automobiles </p>
+				</div>
+				<div class="block2">Ut wisis enim ad minim veniam, quis nostrud.
+   </div>	
+   <div class="block3">	
+<h1>Ut wisis</h1> 
+   	 senim ad minim veniam,<br>
+   	 quis nostrudLorem ipsum <br>
+   	 dolor sit amet, consectetuer <br>
+     madipiscing elit, sed diem<br>
+     nonummy nibh euismod tincidunt<br>
+     ut lacreet dolore magna  volutpat.<br>
+
+     <h1>Lorem ipsum</h1> 
+   	  enim ad minim veniam,<br>
+   	 quis nostrudLorem ipsum <br>
+   	 dolor sit amet, consectetuer <br>
+     madipiscing elit, sed diem<br>
+     nonummy nibh euismod tincidunt<br>
+     ut lacreet dolore magna  volutpat.<br>
+		</div>			
+</div>
+
+<div>
+<div class="block4">
+					Lorem ipsum dolor.	Название „Джип“ появилось в годы Второй мировой войны как прозвище лёгких многоцелевых военных автомобилей „Виллис-МВ“ (Willys) и однотипных с ними машин „Форд GPW“ (Ford). В послевоенные годы оно стало торговой маркой новых поколений гражданских и армейских машин фирмы „Виллис“ из Толидо, официально зарегистрированной 30 июня 1950 г.
+						В 1936 появился Юджин Джип, персонаж комиксов, что-то вроде нашего Чебурашки. И понеслось! Забавный зверёк словно вдохнул в полузабытое слово новую жизнь. Его имя стало популярным, про человека с большой смёткой стали говорить: „Настоящий Джип“. А уж технику не нарекал „Джипом“ только ленивый.<br>
+						<br>
+						<b>History</b><br>
+					1944—1953 гг.: Willys-Overland Motors<br>
+1953—1963 гг.: Kaiser-Frazer Corporation<br>
+1963—1970 гг.: Kaiser Jeep Corporation<br>
+1970—1982 гг.: AMC (American Motors Corporation)<br>
+1982—1986 гг.: AMC-Renault<br>
